@@ -1,6 +1,5 @@
 a{
     text-decoration: none;
-    transition: .4s ease-in-out;
     color: inherit;
 }
 
@@ -139,6 +138,7 @@ main{
     position: relative;
     height: calc(100vh - 85px);
     font-family: auto;
+    transition: .3s ease-in-out;
     
 }
 
