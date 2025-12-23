@@ -155,3 +155,17 @@ main{
 .banner-img:hover img{
     filter: brightness(60%) blur(2px);
 }
+
+footer ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+footer a{
+    color: white;
+    transition: .3s ease-in-out;
+}
+
+footer a:hover{
+    color: grey;
+}
